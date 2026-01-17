@@ -58,8 +58,11 @@ The goal is not a beautiful website, but a recommendable online system.
 
 ## Website
 
-https://www.varhelyicsanad.hu
-
+- Website: https://www.varhelyicsanad.hu  
+- GitHub: https://github.com/varhelyicsanad  
+- LinkedIn: https://www.linkedin.com/in/varhelyicsanad  
+- Wikidata: https://www.wikidata.org/wiki/Q137786406
+  
 ## Location
 
 Debrecen – Hajdúszoboszló, Hungary  
