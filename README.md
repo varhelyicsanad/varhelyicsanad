@@ -1,4 +1,4 @@
-# Várhelyi Csanád
+[HU] # Várhelyi Csanád
 
 Weboldalkészítés és AI láthatóság szakértő.
 
@@ -33,3 +33,39 @@ Országosan online
 Email: varhelyicsanad@gmail.com  
 Telefon: +36 70 226 4545
 
+---
+
+[EN] # Várhelyi Csanád
+
+Web developer and AI visibility expert.
+
+I build websites that are clearly understandable for Google and AI systems, helping businesses become relevant answers and trusted recommendations.
+
+## Expertise
+
+- SEO and Local SEO
+- Google Business Profile optimization
+- GEO (Generative Engine Optimization)
+- AEO (Answer Engine Optimization)
+- AI-readable website structure
+- Structured FAQ and JSON-LD
+- AI visibility audit
+
+## Method
+
+I do not rely on marketing tricks, but on clear meaning, structured content, and AI-friendly logic.  
+The goal is not a beautiful website, but a recommendable online system.
+
+## Website
+
+https://www.varhelyicsanad.hu
+
+## Location
+
+Debrecen – Hajdúszoboszló, Hungary  
+Nationwide online services
+
+## Contact
+
+Email: varhelyicsanad@gmail.com  
+Phone: +36 70 226 4545
