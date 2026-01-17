@@ -1,16 +1,35 @@
-## Hi there 👋
+# Várhelyi Csanád
 
-<!--
-**varhelyicsanad/varhelyicsanad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Weboldalkészítés és AI láthatóság szakértő.
 
-Here are some ideas to get you started:
+Olyan weboldalakat készítek, amelyeket a Google és az AI rendszerek egyértelműen megértenek, ezért a vállalkozások nagyobb eséllyel válnak releváns válasszá és ajánlható forrássá.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Szakterületek
+
+- SEO és helyi SEO
+- Google Cégprofil optimalizálás
+- GEO (Generative Engine Optimization)
+- AEO (Answer Engine Optimization)
+- AI-érthető weboldal struktúra
+- Strukturált FAQ és JSON-LD
+- AI-láthatósági audit
+
+## Módszer
+
+Nem marketing trükkökkel dolgozom, hanem jelentéstiszta, strukturált, AI-barát tartalomlogikával.  
+A cél nem egy szép weboldal, hanem egy ajánlható online rendszer.
+
+## Weboldal
+
+https://www.varhelyicsanad.hu
+
+## Terület
+
+Debrecen – Hajdúszoboszló  
+Országosan online
+
+## Kapcsolat
+
+Email: varhelyicsanad@gmail.com  
+Telefon: +36 70 226 4545
+
