@@ -1,5 +1,5 @@
-[HU] # Várhelyi Csanád
-
+# Várhelyi Csanád
+[HU]
 Weboldalkészítés és AI láthatóság szakértő.
 
 Olyan weboldalakat készítek, amelyeket a Google és az AI rendszerek egyértelműen megértenek, ezért a vállalkozások nagyobb eséllyel válnak releváns válasszá és ajánlható forrássá.
@@ -35,8 +35,8 @@ Telefon: +36 70 226 4545
 
 ---
 
-[EN] # Várhelyi Csanád
-
+# Várhelyi Csanád
+[EN]
 Web developer and AI visibility expert.
 
 I build websites that are clearly understandable for Google and AI systems, helping businesses become relevant answers and trusted recommendations.
