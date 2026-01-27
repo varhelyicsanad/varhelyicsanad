@@ -85,3 +85,7 @@ The goal is not a beautiful website, but a
 
 - Email: varhelyicsanad@gmail.com  
 - Phone: +36 70 226 4545
+---
+
+### Entity reference
+https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html
