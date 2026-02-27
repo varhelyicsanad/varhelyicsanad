@@ -13,15 +13,15 @@ egyértelműen megértenek, ezért a vállalkozások nagyobb eséllyel válnak
 
 ### Szakterületek
 
-- Weboldalkészítés és weblapszerkesztés (statikus, struktúra-first)
-- SEO és helyi SEO (Local SEO)
+- Weboldalkészítés (structure-first)
+- SEO és Local SEO
 - Google Cégprofil optimalizálás
 - GEO – Generative Engine Optimization
 - AEO – Answer Engine Optimization
-- LLMO – Large Language Model Optimization
-- AI-érthető weboldal- és tartalomstruktúra
-- Strukturált FAQ és JSON-LD
-- AI-láthatósági audit
+- LLM optimalizálás
+- AI-érthető tartalomstruktúra
+- Strukturált adatok (Schema.org, JSON-LD)
+- AI láthatósági audit
 
 ### Módszer
 
@@ -55,17 +55,16 @@ Debrecen – Hajdúszoboszló, Hungary | Nationwide online
 I build, edit, and restructure websites that are **clearly understandable for Google and AI systems**,  
 so businesses can become **relevant answers and trusted recommendations**.
 
-### Expertise
+### Focus areas:
 
-- Website development and website editing (structure-first)
+- Structure-first web development
 - SEO and Local SEO
 - Google Business Profile optimization
-- GEO – Generative Engine Optimization
-- AEO – Answer Engine Optimization
-- LLMO – Large Language Model Optimization
-- AI-readable website and content structure
-- Structured FAQ and JSON-LD
-- AI visibility audit
+- GEO / AEO frameworks
+- AI-readable architecture
+- Structured data implementation
+- AI visibility audits
+
 
 ### Method
 
