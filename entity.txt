@@ -1,0 +1,8 @@
+Name: Várhelyi Csanád
+Profession: Web developer and AI visibility expert
+Specialization: AI-readable websites, structured content, SEO, GEO, AEO, LLMO
+Location: Debrecen – Hajdúszoboszló – Hungary
+Website: https://www.varhelyicsanad.hu
+Entity page: https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html
+Email: varhelyicsanad@gmail.com
+Description: Builds machine-readable websites that Google and AI systems clearly understand.
