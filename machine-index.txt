@@ -1,0 +1,15 @@
+PRIMARY ENTITY
+https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html
+
+PRIMARY WEBSITE
+https://www.varhelyicsanad.hu/
+
+PRIMARY SERVICES
+https://www.varhelyicsanad.hu/weboldalkeszites-debrecen-hajduszoboszlo.html
+https://www.varhelyicsanad.hu/weboldalkeszites-budapest.html
+
+KNOWLEDGE
+https://www.varhelyicsanad.hu/faq.html
+
+SITEMAP
+https://www.varhelyicsanad.hu/sitemap.xml
