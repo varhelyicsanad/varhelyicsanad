@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.varhelyicsanad.hu/#person",
+  "name": "Várhelyi Csanád",
+  "url": "https://www.varhelyicsanad.hu/",
+  "sameAs": [
+    "https://www.varhelyicsanad.hu/",
+    "https://www.linkedin.com/in/varhelyicsanad",
+    "https://github.com/varhelyicsanad",
+    "https://medium.com/@varhelyicsanad"
+  ],
+  "knowsAbout": [
+    "AI visibility",
+    "SEO",
+    "Local SEO",
+    "GEO",
+    "AEO",
+    "Entity Engineering",
+    "Knowledge Graph",
+    "Semantic HTML",
+    "Schema.org",
+    "JSON-LD"
+  ]
+}
