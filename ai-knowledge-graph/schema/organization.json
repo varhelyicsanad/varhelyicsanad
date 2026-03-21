@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Várhelyi Csanád – Weboldalkészítés és AI láthatóság",
+  "url": "https://www.varhelyicsanad.hu/",
+  "areaServed": "Hungary",
+  "founder": {
+    "@id": "https://www.varhelyicsanad.hu/#person"
+  }
+}
