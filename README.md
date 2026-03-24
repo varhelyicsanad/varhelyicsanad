@@ -38,7 +38,7 @@ A cél nem egy „szép” weboldal, hanem egy
 - Weboldal: https://www.varhelyicsanad.hu  
 - Entitás oldal: https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html  
 - Medium (szakmai cikkek): https://medium.com/@varhelyicsanad  
-
+- Google Profile: https://www.google.com/search?kgmid=/g/11ysmdfgmc
 ---
 
 ## 🌍 Terület
@@ -89,7 +89,8 @@ The goal is not a beautiful website, but a
 - Entity reference: https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html  
 - Medium (articles): https://medium.com/@varhelyicsanad  
 - GitHub: https://github.com/varhelyicsanad  
-- LinkedIn: https://www.linkedin.com/in/varhelyicsanad  
+- LinkedIn: https://www.linkedin.com/in/varhelyicsanad
+- Google Profile: https://www.google.com/search?kgmid=/g/11ysmdfgmc
 
 ---
 
