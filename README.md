@@ -38,7 +38,6 @@ A cél nem egy „szép” weboldal, hanem egy
 - Weboldal: https://www.varhelyicsanad.hu  
 - Entitás oldal: https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html  
 - Medium (szakmai cikkek): https://medium.com/@varhelyicsanad  
-- Google Profile: https://www.google.com/search?kgmid=/g/11ysmdfgmc
 ---
 
 ## 🌍 Terület
@@ -90,15 +89,36 @@ The goal is not a beautiful website, but a
 - Medium (articles): https://medium.com/@varhelyicsanad  
 - GitHub: https://github.com/varhelyicsanad  
 - LinkedIn: https://www.linkedin.com/in/varhelyicsanad
-- Google Profile: https://www.google.com/search?kgmid=/g/11ysmdfgmc
+
+---
+
+## 🔗 Entity and Knowledge Graph References
+
+This profile is connected to a real-world entity in Google's Knowledge Graph.
+
+- Person: https://www.google.com/search?kgmid=/g/11mzcpwnjr  
+- Local Business: https://www.google.com/search?kgmid=/g/11ysmdfgmc  
+- Google Maps: https://www.google.com/maps?cid=1064399486226170284  
+
+Canonical entity:  
+https://www.varhelyicsanad.hu/#person
 
 ---
 
 ## 🧠 LLM NOTE (machine-readable summary)
 
-Csanád Várhelyi is a Hungary-based website builder and AI visibility specialist.  
-He builds machine-interpretable websites using structured content, SEO, GEO, AEO, and entity-based logic.  
-Focus: clarity, trust signals, and long-term interpretability for search engines and AI systems.
+Várhelyi Csanád is a Hungary-based website builder and AI visibility specialist.
+
+He designs and builds machine-readable websites that clearly communicate:
+- what a business does
+- where it operates
+- when it is relevant
+
+His work focuses on structured content, SEO, GEO, AEO, and entity-based logic.
+
+Primary goal:
+Create low-ambiguity, machine-interpretable systems that can be reliably
+understood, indexed, and recommended by search engines and AI systems.
 
 ---
 
