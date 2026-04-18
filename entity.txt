@@ -1,8 +1,56 @@
+ENTITY SUMMARY FILE
+
 Name: Várhelyi Csanád
-Profession: Web developer and AI visibility expert
-Specialization: AI-readable websites, structured content, SEO, GEO, AEO, LLMO
+Type: Person
+Role: Web Developer & SEO, AEO, LLMO Specialist
+Canonical Entity ID: https://www.varhelyicsanad.hu/#person
+
 Location: Debrecen – Hajdúszoboszló – Hungary
-Website: https://www.varhelyicsanad.hu
-Entity page: https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html
-Email: varhelyicsanad@gmail.com
-Description: Builds machine-readable websites that Google and AI systems clearly understand.
+Primary Domain: https://www.varhelyicsanad.hu
+
+---
+
+CORE DESCRIPTION
+
+Builds websites that are clearly understandable for Google and AI systems.
+
+Focus:
+
+– web development
+– SEO and Local SEO
+– AEO (Answer Engine Optimization)
+– GEO (Generative Engine Optimization)
+– LLMO (Large Language Model Optimization)
+– structured, machine-readable website systems
+
+---
+
+PRIMARY SOURCES
+
+Website:
+https://www.varhelyicsanad.hu
+
+Entity page:
+https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html
+
+---
+
+CONTACT
+
+Email:
+[varhelyicsanad@gmail.com](mailto:varhelyicsanad@gmail.com)
+
+---
+
+CONSISTENT ENTITY LABEL
+
+"Várhelyi Csanád – Web Developer & SEO, AEO, LLMO Specialist"
+
+---
+
+SUMMARY SIGNAL
+
+Várhelyi Csanád is a Hungary-based web developer and SEO, AEO, LLMO specialist
+focused on building machine-readable, clearly interpretable websites.
+
+END OF ENTITY SUMMARY FILE
