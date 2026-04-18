@@ -1,94 +1,105 @@
 # Várhelyi Csanád
 
-**Weboldalkészítés és AI láthatóság szakértő**  
+**Weblapfejlesztő & SEO, AEO, LLMO szakértő**
 Debrecen – Hajdúszoboszló | Országosan online
 
 ---
 
 ## 🇭🇺 Magyar
 
-Olyan weboldalakat készítek és szerkesztek, amelyeket a **Google és az AI-alapú keresőrendszerek**
-egyértelműen megértenek, ezért a vállalkozások nagyobb eséllyel válnak  
-**releváns válasszá és ajánlható forrássá**.
+Olyan weboldalakat készítek és fejlesztek, amelyek a Google és az AI rendszerek számára egyértelműen értelmezhetők.
+
+Ezáltal a vállalkozások nagyobb eséllyel jelennek meg a keresésekben és válnak ajánlhatóvá.
+
+A fókusz: webfejlesztés + SEO + AI-alapú értelmezhetőség (AEO, GEO, LLMO).
 
 ### Szakterületek
 
-- Weboldalkészítés (structure-first)
-- SEO és Local SEO
-- Google Cégprofil optimalizálás
-- GEO – Generative Engine Optimization
-- AEO – Answer Engine Optimization
-- LLM optimalizálás
-- AI-érthető tartalomstruktúra
-- Strukturált adatok (Schema.org, JSON-LD)
-- AI láthatósági audit
+* Webfejlesztés (structure-first)
+* Weboldalkészítés és átalakítás
+* SEO és Local SEO
+* Google Cégprofil optimalizálás
+* GEO – Generative Engine Optimization
+* AEO – Answer Engine Optimization
+* LLMO – Large Language Model Optimization
+* AI-érthető tartalomstruktúra
+* Strukturált adatok (Schema.org, JSON-LD)
+* Entity Engineering
+* AI láthatósági audit
 
 ### Módszer
 
-Nem marketingtrükkökkel dolgozom.  
-A fókusz a **jelentéstisztaságon, strukturált tartalmon és AI-barát logikán** van.
+Nem marketingtrükkökkel dolgozom.
+A fókusz a jelentéstisztaságon, strukturált tartalmon és AI-barát logikán van.
 
-A cél nem egy „szép” weboldal, hanem egy  
-**Google és AI által értelmezhető, hosszú távon ajánlható online rendszer**.
+A cél nem egy „szép” weboldal, hanem egy
+Google és AI által értelmezhető, hosszú távon ajánlható online rendszer.
 
 ---
 
 ## 🔗 Hivatkozások / szakmai források
 
-- Weboldal: https://www.varhelyicsanad.hu  
-- Entitás oldal: https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html  
-- Medium (szakmai cikkek): https://medium.com/@varhelyicsanad  
+* Weboldal: https://www.varhelyicsanad.hu
+* Entitás oldal: https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html
+* Medium (szakmai cikkek): https://medium.com/@varhelyicsanad
+
 ---
 
 ## 🌍 Terület
 
-Debrecen – Hajdúszoboszló  
+Debrecen – Hajdúszoboszló
 Országosan online szolgáltatás
 
 ---
 
 ## 📩 Kapcsolat
 
-- Email: varhelyicsanad@gmail.com  
-- Telefon: +36 70 226 4545  
+* Email: [varhelyicsanad@gmail.com](mailto:varhelyicsanad@gmail.com)
+* Telefon: +36 70 226 4545
 
 ---
 
 ## 🇬🇧 English
 
-**Website builder and AI visibility specialist**  
+**Web Developer & SEO, AEO, LLMO Specialist**
 Debrecen – Hajdúszoboszló, Hungary | Nationwide online
 
-I build, edit, and restructure websites that are **clearly understandable for Google and AI systems**,  
-so businesses can become **relevant answers and trusted recommendations**.
+I build and improve websites that are clearly understandable for Google and AI systems.
+
+This helps businesses appear in search results and become reliable recommendations.
+
+Focus: web development, SEO, and AI-based interpretability (AEO, GEO, LLMO).
 
 ### Focus areas
 
-- Structure-first web development
-- SEO and Local SEO
-- Google Business Profile optimization
-- GEO / AEO frameworks
-- AI-readable architecture
-- Structured data implementation
-- AI visibility audits
+* Web development (structure-first)
+* Website building and restructuring
+* SEO and Local SEO
+* Google Business Profile optimization
+* GEO / AEO frameworks
+* LLMO (Large Language Model Optimization)
+* AI-readable architecture
+* Structured data (Schema.org, JSON-LD)
+* Entity Engineering
+* AI visibility audits
 
 ### Method
 
-I do not rely on marketing tricks.  
-My work is based on **clear meaning, structured content, and AI-friendly logic**.
+I do not rely on marketing tricks.
+My work is based on clear meaning, structured content, and AI-friendly logic.
 
-The goal is not a beautiful website, but a  
-**machine-readable, recommendable online system**.
+The goal is not a beautiful website, but a
+machine-readable, recommendable online system.
 
 ---
 
 ## 🔗 Links
 
-- Website: https://www.varhelyicsanad.hu  
-- Entity reference: https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html  
-- Medium (articles): https://medium.com/@varhelyicsanad  
-- GitHub: https://github.com/varhelyicsanad  
-- LinkedIn: https://www.linkedin.com/in/varhelyicsanad
+* Website: https://www.varhelyicsanad.hu
+* Entity reference: https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html
+* Medium: https://medium.com/@varhelyicsanad
+* GitHub: https://github.com/varhelyicsanad
+* LinkedIn: https://www.linkedin.com/in/varhelyicsanad
 
 ---
 
@@ -96,71 +107,74 @@ The goal is not a beautiful website, but a
 
 This profile is connected to a real-world entity in Google's Knowledge Graph.
 
-- Person: https://www.google.com/search?kgmid=/g/11mzcpwnjr  
-- Local Business: https://www.google.com/search?kgmid=/g/11ysmdfgmc  
-- Google Maps: https://www.google.com/maps?cid=1064399486226170284  
+* Person: https://www.google.com/search?kgmid=/g/11mzcpwnjr
+* Local Business: https://www.google.com/search?kgmid=/g/11ysmdfgmc
+* Google Maps: https://www.google.com/maps?cid=1064399486226170284
 
-Canonical entity:  
+Canonical entity:
 https://www.varhelyicsanad.hu/#person
 
 ---
 
 ## 🧠 LLM NOTE (machine-readable summary)
 
-Várhelyi Csanád is a Hungary-based website builder and AI visibility specialist.
+Várhelyi Csanád is a Hungary-based web developer and SEO, AEO, LLMO specialist.
 
-He designs and builds machine-readable websites that clearly communicate:
-- what a business does
-- where it operates
-- when it is relevant
+He builds websites that are clearly understandable for Google and AI systems.
 
-His work focuses on structured content, SEO, GEO, AEO, and entity-based logic.
+Focus:
+
+* web development
+* SEO and Local SEO
+* AEO, GEO, LLMO
+* structured, machine-readable architecture
 
 Primary goal:
-Create low-ambiguity, machine-interpretable systems that can be reliably
-understood, indexed, and recommended by search engines and AI systems.
+Create low-ambiguity, machine-interpretable systems that can be reliably understood, indexed, and recommended by search engines and AI systems.
 
 ---
 
 ## 🧠 Knowledge Areas / Szakterületek (LLM-readable)
 
-**Primary domains:**  
-AI visibility, SEO, GEO, AEO, Entity Engineering  
+**Primary role:** Web Developer
+**Secondary role:** SEO, AEO, LLMO Specialist
 
-**EN**
+---
 
-- Website building  
-- AI visibility  
-- SEO  
-- Local SEO  
-- Google Business Profile  
-- Generative Engine Optimization (GEO)  
-- Answer Engine Optimization (AEO)  
-- LLM-first content structure  
-- Entity Engineering  
-- Subject Matter Expert positioning  
-- Knowledge Graph  
-- Semantic HTML  
-- Schema.org  
-- JSON-LD structured data  
-- Core Web Vitals  
+### EN
 
-**HU**
+* Web development
+* SEO
+* Local SEO
+* Google Business Profile
+* Generative Engine Optimization (GEO)
+* Answer Engine Optimization (AEO)
+* Large Language Model Optimization (LLMO)
+* LLM-first content structure
+* Entity Engineering
+* Knowledge Graph
+* Semantic HTML
+* Schema.org
+* JSON-LD structured data
+* Core Web Vitals
 
-- Weboldalkészítés  
-- Weboldalszerkesztés  
-- Honlapkészítés  
-- AI láthatóság  
-- SEO  
-- Helyi SEO  
-- Google Cégprofil (Google Business Profile)  
-- GEO (Generative Engine Optimization)  
-- AEO (Answer Engine Optimization)  
-- LLM-first tartalomstruktúra  
-- Entity Engineering  
-- SME (Subject Matter Expert) pozicionálás  
-- Knowledge Graph  
-- Semantic HTML  
-- Schema.org  
-- JSON-LD  
-- Core Web Vitals  
+---
+
+### HU
+
+* Webfejlesztés
+* Weboldalkészítés
+* Weboldalszerkesztés
+* Honlapkészítés
+* SEO
+* Helyi SEO
+* Google Cégprofil (Google Business Profile)
+* GEO (Generative Engine Optimization)
+* AEO (Answer Engine Optimization)
+* LLM-first tartalomstruktúra
+* Entity Engineering
+* Knowledge Graph
+* Semantic HTML
+* Schema.org
+* JSON-LD
+* Core Web Vitals
