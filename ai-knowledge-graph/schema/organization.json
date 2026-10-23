@@ -1,10 +1,15 @@
 {
   "@context": "https://schema.org",
-  "@type": "ProfessionalService",
-  "name": "Várhelyi Csanád – Weboldalkészítés és AI láthatóság",
-  "url": "https://www.varhelyicsanad.hu/",
-  "areaServed": "Hungary",
+  "@type": "Organization",
+  "@id": "https://www.wikiai.hu/#organization",
+  "name": "WikiAI.hu",
+  "url": "https://www.wikiai.hu/",
   "founder": {
-    "@id": "https://www.varhelyicsanad.hu/#person"
-  }
+    "@type": "Person",
+    "url": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/"
+  },
+  "employee": {
+    "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
+  },
+  "description": "WikiAI.hu is a Hungarian editorial business knowledge and AI visibility platform. Várhelyi Viktória is the founder/operator; Várhelyi Csanád is the responsible editor. The editor's independent entrepreneurial services are distinct from platform operations."
 }

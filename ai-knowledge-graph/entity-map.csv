@@ -1,4 +1,4 @@
 id,type,name,url,sameAs
-person,Person,Várhelyi Csanád,https://www.varhelyicsanad.hu/#person,"https://www.varhelyicsanad.hu,https://www.linkedin.com/in/varhelyicsanad,https://github.com/varhelyicsanad,https://medium.com/@varhelyicsanad"
-website,WebSite,varhelyicsanad.hu,https://www.varhelyicsanad.hu,"https://www.varhelyicsanad.hu"
-service,Service,Weboldalkészítés és AI láthatóság,https://www.varhelyicsanad.hu,"SEO,GEO,AEO,AI visibility"
+person,Person,Várhelyi Csanád,https://www.wikiai.hu/szakertok/varhelyi-csanad/#person,"https://www.wikiai.hu/szakertok/varhelyi-csanad/,https://www.linkedin.com/in/varhelyicsanad,https://github.com/varhelyicsanad,https://medium.com/@varhelyicsanad"
+professional-profile,ProfilePage,Várhelyi Csanád szakmai profil,https://www.wikiai.hu/szakertok/varhelyi-csanad/,"https://www.wikiai.hu/szakertok/varhelyi-csanad/"
+organization,Organization,WikiAI.hu,https://www.wikiai.hu/#organization,"https://www.wikiai.hu/"

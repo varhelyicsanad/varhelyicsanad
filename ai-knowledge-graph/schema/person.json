@@ -1,11 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "@id": "https://www.varhelyicsanad.hu/#person",
+  "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person",
   "name": "Várhelyi Csanád",
-  "url": "https://www.varhelyicsanad.hu/",
+  "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
   "sameAs": [
-    "https://www.varhelyicsanad.hu/",
+    "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
     "https://www.linkedin.com/in/varhelyicsanad",
     "https://github.com/varhelyicsanad",
     "https://medium.com/@varhelyicsanad"
