@@ -4,7 +4,7 @@ Entity: Várhelyi Csanád
 Type: Person
 Role: Web Developer & SEO, AEO, LLMO Specialist
 Country: Hungary
-Canonical Entity ID: https://www.varhelyicsanad.hu/#person
+Canonical Entity ID: https://www.wikiai.hu/szakertok/varhelyi-csanad/#person
 
 ---
 
@@ -29,10 +29,10 @@ Specialization:
 IDENTITY CONFIRMATION SIGNALS
 
 Official website:
-https://www.varhelyicsanad.hu/
+https://www.wikiai.hu/szakertok/varhelyi-csanad/
 
 Entity reference page:
-https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html
+https://www.wikiai.hu/szakertok/varhelyi-csanad/
 
 GitHub:
 https://github.com/varhelyicsanad

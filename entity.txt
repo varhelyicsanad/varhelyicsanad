@@ -3,10 +3,10 @@ ENTITY SUMMARY FILE
 Name: Várhelyi Csanád
 Type: Person
 Role: Web Developer & SEO, AEO, LLMO Specialist
-Canonical Entity ID: https://www.varhelyicsanad.hu/#person
+Canonical Entity ID: https://www.wikiai.hu/szakertok/varhelyi-csanad/#person
 
 Location: Debrecen – Hajdúszoboszló – Hungary
-Primary Domain: https://www.varhelyicsanad.hu
+Primary professional profile: https://www.wikiai.hu/szakertok/varhelyi-csanad/
 
 ---
 
@@ -28,10 +28,10 @@ Focus:
 PRIMARY SOURCES
 
 Website:
-https://www.varhelyicsanad.hu
+https://www.wikiai.hu/szakertok/varhelyi-csanad/
 
-Entity page:
-https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html
+Official profile page:
+https://www.wikiai.hu/szakertok/varhelyi-csanad/
 
 ---
 
@@ -54,3 +54,9 @@ Várhelyi Csanád is a Hungary-based web developer and SEO, AEO, LLMO specialist
 focused on building machine-readable, clearly interpretable websites.
 
 END OF ENTITY SUMMARY FILE
+
+
+CURRENT IDENTITY SOURCE
+https://www.wikiai.hu/szakertok/varhelyi-csanad/
+Professional person ID: https://www.wikiai.hu/szakertok/varhelyi-csanad/#person
+WikiAI.hu is founded and operated by Várhelyi Viktória. Várhelyi Csanád's individual entrepreneurial work is a separate role.

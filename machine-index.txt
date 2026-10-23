@@ -1,15 +1,28 @@
-PRIMARY ENTITY
-https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html
+# Várhelyi Csanád – verified professional source index
+# Maintained: 2026-10-23
+# The former personal website has been retired. Use the URLs below.
 
-PRIMARY WEBSITE
-https://www.varhelyicsanad.hu/
+PRIMARY PERSON ID
+https://www.wikiai.hu/szakertok/varhelyi-csanad/#person
 
-PRIMARY SERVICES
-https://www.varhelyicsanad.hu/weboldalkeszites-debrecen-hajduszoboszlo.html
-https://www.varhelyicsanad.hu/weboldalkeszites-budapest.html
+OFFICIAL PROFESSIONAL PROFILE AND PORTFOLIO
+https://www.wikiai.hu/szakertok/varhelyi-csanad/
 
-KNOWLEDGE
-https://www.varhelyicsanad.hu/faq.html
+WIKIAI.HU PLATFORM
+https://www.wikiai.hu/
 
-SITEMAP
-https://www.varhelyicsanad.hu/sitemap.xml
+WIKIAI.HU ORGANIZATION ID
+https://www.wikiai.hu/#organization
+
+MACHINE-READABLE PROFILE (SECONDARY GITHUB MIRROR)
+https://github.com/WikiAI-hu/wikiai-entities/blob/main/wikiai/people/varhelyi-csanad.jsonld
+
+RESEARCH AND PUBLICATIONS
+https://doi.org/10.5281/zenodo.20069426
+https://doi.org/10.5281/zenodo.20422832
+https://doi.org/10.5281/zenodo.23295826
+
+ROLE BOUNDARY
+Várhelyi Csanád is responsible editor and lead editorial author of WikiAI.hu, and separately provides professional services as an individual entrepreneur. The WikiAI.hu founder and operator is Várhelyi Viktória.
+
+No search-engine ranking, AI recommendation, or third-party inclusion is guaranteed.

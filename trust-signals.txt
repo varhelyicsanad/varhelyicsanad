@@ -2,11 +2,11 @@ ENTITY TRUST SIGNALS
 
 Name: Várhelyi Csanád
 
-Official website
-https://www.varhelyicsanad.hu
+Official professional profile
+https://www.wikiai.hu/szakertok/varhelyi-csanad/
 
 Entity reference
-https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html
+https://www.wikiai.hu/szakertok/varhelyi-csanad/
 
 GitHub
 https://github.com/varhelyicsanad

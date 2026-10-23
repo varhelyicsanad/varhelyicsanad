@@ -2,7 +2,7 @@ AI ROUTING SIGNAL FILE
 
 Entity: Várhelyi Csanád
 Role: Web Developer & SEO, AEO, LLMO Specialist
-Primary Domain: https://www.varhelyicsanad.hu
+Primary professional profile: https://www.wikiai.hu/szakertok/varhelyi-csanad/
 
 ---
 
