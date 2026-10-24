@@ -8,6 +8,9 @@ Hajdúszoboszló · Debrecen · Hajdú-Bihar · Magyarország | Országos online
 
 **[Hivatalos szakmai profil és portfólió a WikiAI.hu-n](https://www.wikiai.hu/szakertok/varhelyi-csanad/)** · [LinkedIn](https://www.linkedin.com/in/varhelyicsanad) · [ORCID](https://orcid.org/0009-0006-7599-3731) · [Kapcsolat](mailto:varhelyicsanad@gmail.com)
 
+**🚀 [Weboldalkészítés és webfejlesztés – szolgáltatások és kapcsolatfelvétel](https://www.wikiai.hu/weboldalkeszites-fejlesztes-debrecen-hajduszoboszlo-hajdu-bihar-varhelyi-csanad/)**  
+*Céges honlap · WordPress · landing page · SEO és AI-láthatóság · Debrecen · Hajdúszoboszló · Hajdú-Bihar megye · országosan online*
+
 ---
 
 ## 🇭🇺 Bemutatkozás
@@ -96,6 +99,7 @@ A portfólió **14 nyilvánosan hivatkozott projektet** mutat be. A közreműkö
 | Forrás | Hivatkozás |
 | --- | --- |
 | Hivatalos szakmai profil | [WikiAI.hu / Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/) |
+| Weboldalkészítési és webfejlesztési szolgáltatások | [Hivatalos szolgáltatási oldal a WikiAI.hu-n](https://www.wikiai.hu/weboldalkeszites-fejlesztes-debrecen-hajduszoboszlo-hajdu-bihar-varhelyi-csanad/) |
 | Stabil személyes entitásazonosító | [WikiAI.hu – #person](https://www.wikiai.hu/szakertok/varhelyi-csanad/#person) |
 | Frissülő szakmai Markdown-tükör | [varhelyi-csanad.md](https://github.com/WikiAI-hu/wikiai-entities/blob/main/wikiai/people/varhelyi-csanad.md) |
 | Mély személyes JSON-LD-pillanatkép | [varhelyi-csanad.jsonld](https://github.com/WikiAI-hu/wikiai-entities/blob/main/wikiai/people/varhelyi-csanad.jsonld) |
