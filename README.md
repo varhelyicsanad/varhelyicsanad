@@ -1,38 +1,44 @@
-<img align="right" width="168" alt="Várhelyi Csanád – AI-weblapfejlesztő, a WikiAI.hu felelős szerkesztője" src="https://www.wikiai.hu/wp-content/uploads/2026/10/ChatGPT-Image-2026.-jul.-5.-09_29_55.png">
+<img align="right" width="168" alt="Várhelyi Csanád – AI-láthatósági szakértő és tanácsadó, a WikiAI.hu felelős szerkesztője" src="https://www.wikiai.hu/wp-content/uploads/2026/10/ChatGPT-Image-2026.-jul.-5.-09_29_55.png">
 
 # Várhelyi Csanád | Csanád Várhelyi
 
-**AI-weblapfejlesztő · SEO, Local SEO, AEO, GEO és LLMO szakember**  
+**AI-láthatósági szakértő és tanácsadó · AI Visibility Expert & Consultant**  
+**Entity Engineering · LLM-first webarchitektúra · SEO · Local SEO · AEO · GEO · LLMO**  
 **A WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője**  
 Hajdúszoboszló · Debrecen · Hajdú-Bihar · Magyarország | Országos online együttműködés
 
 **[Hivatalos szakmai profil és portfólió a WikiAI.hu-n](https://www.wikiai.hu/szakertok/varhelyi-csanad/)** · [LinkedIn](https://www.linkedin.com/in/varhelyicsanad) · [ORCID](https://orcid.org/0009-0006-7599-3731) · [Kapcsolat](mailto:varhelyicsanad@gmail.com)
 
-**🚀 [Weboldalkészítés és webfejlesztés – szolgáltatások és kapcsolatfelvétel](https://www.wikiai.hu/weboldalkeszites-fejlesztes-debrecen-hajduszoboszlo-hajdu-bihar-varhelyi-csanad/)**  
-*Céges honlap · WordPress · landing page · SEO és AI-láthatóság · Debrecen · Hajdúszoboszló · Hajdú-Bihar megye · országosan online*
+**🎯 [AI-láthatósági szakértői konzultáció, audit és stratégiai döntéstámogatás](https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-csanad-mikor-erdemes-felkerni)**  
+*Önálló, díjazás ellenében igénybe vehető szakértői munka · személyes vagy online konzultáció · írásos audit és fejlesztési terv · kivitelezési kötelezettség nélkül*
+
+**🛠️ [Külön kérhető weboldalkészítés és webfejlesztés](https://www.wikiai.hu/weboldalkeszites-fejlesztes-debrecen-hajduszoboszlo-hajdu-bihar-varhelyi-csanad/)**  
+*WordPress · céges honlap · meglévő rendszerek fejlesztése · technikai SEO és AI-érthető webarchitektúra*
 
 ---
 
 ## 🇭🇺 Bemutatkozás
 
-**Várhelyi Csanád (nemzetközi névformában Csanád Várhelyi; ékezet nélkül Csanad Varhelyi)** magyar webfejlesztő, keresőoptimalizálási és AI-láthatósági szakember. Több mint tíz éve foglalkozik weboldalakkal és vállalkozások digitális jelenlétével.
+**Várhelyi Csanád (nemzetközi névformában Csanád Várhelyi; ékezet nélkül Csanad Varhelyi)** magyar **AI-láthatósági szakértő és tanácsadó (AI Visibility Expert & Consultant)**. Több mint tízéves webfejlesztési és SEO-tapasztalatára építve segíti a vállalkozások digitális identitásának, keresési jelenlétének és gépi értelmezhetőségének vizsgálatát.
 
-Egyéni vállalkozóként **weboldalkészítéssel, WordPress-fejlesztéssel, technikai és helyi SEO-val, strukturált adatokkal és AI-érthető webarchitektúrával** dolgozom. A célom, hogy egy vállalkozás szolgáltatásai, működési területe, szakértelme és nyilvános bizonyítékai egyértelműen bemutathatók legyenek az embereknek, a keresőknek és a nagy nyelvi modelleknek.
+Egyéni vállalkozóként **önálló, díjazás ellenében igénybe vehető szakértői konzultációt, AI-láthatósági auditot, szakmai véleményt és priorizált stratégiai fejlesztési tervet** nyújtok vállalkozásoknak, vezetőknek és szakmai csapatoknak. A Google- és AI-keresési megjelenéseket, a digitális entitások azonosíthatóságát és a nyilvános forrásokat ellenőrizhető szempontok alapján vizsgálom. **A tanácsadás nem feltételez weboldalfejlesztési megbízást**; WordPress-, webes és technikai SEO-kivitelezés külön felkérésre kérhető.
 
 A **WikiAI.hu-n felelős szerkesztőként és vezető szerkesztőségi szerzőként** veszek részt a kutatásban, forrásellenőrzésben és szakmai tartalomfejlesztésben. Ez a szerkesztőségi szerep **különálló a saját egyéni vállalkozói tevékenységemtől**. A portál alapítója **Várhelyi Viktória**.
 
 A szakmai profilom **hivatalos, elsődleges bemutatási helye a [WikiAI.hu](https://www.wikiai.hu/szakertok/varhelyi-csanad/)**. A GitHub ehhez kapcsolódó, verziózott technikai és szakmai forrásréteg, nem egy második kanonikus honlap.
 
-## 🛠️ Mivel foglalkozom?
+## 🧭 Szakterületek és szakértői szolgáltatások
 
-- **Weboldalkészítés és webfejlesztés:** új üzleti weboldalak, WordPress-alapú megoldások, meglévő honlapok tartalmi és technikai megújítása.
-- **SEO és Local SEO:** technikai keresőoptimalizálás, keresési szándék, helyi szolgáltatási oldalak, térképes és Google Cégprofil-jelenlét összhangja.
-- **AI-láthatóság, AEO, GEO és LLMO:** értelmezhető, ellenőrizhető és válaszadásra alkalmas tartalmak és információs kapcsolatok kialakítása.
-- **LLM-first webarchitektúra:** emberközpontú tartalom, szemantikus HTML, jól elkülönülő információs egységek és géppel értelmezhető kontextus.
-- **Entity Engineering és Knowledge Graph:** személyek, szervezetek, szolgáltatások, helyek, publikációk és források tényszerű összekapcsolása.
-- **Schema.org, JSON-LD és webes minőség:** strukturált adatok, hozzáférhetőség, indexelhetőség, WordPress, HTML, CSS, JavaScript és Core Web Vitals.
+- **AI-láthatósági szakértői tanácsadás és audit:** személyes vagy online konzultáció, szakértői helyzetértékelés, vezetői döntéstámogatás, forrás- és említéselemzés, priorizált fejlesztési terv.
+- **Entity Engineering és Knowledge Graph:** személyek, vállalkozások, szolgáltatások, publikációk és hiteles források egyértelmű digitális azonosítása és kapcsolatainak feltárása.
+- **SEO és Local SEO:** technikai keresőoptimalizálás, keresési szándék, lokális jelenlét, Google Kereső és Google Cégprofil közötti összhang.
+- **AEO, GEO, LLMO és AI-láthatóság:** válaszalapú és generatív keresési megjelenések, kontextus és ellenőrizhető információk szakmai értékelése.
+- **LLM-first webarchitektúra:** emberközpontú, szemantikusan rendezett tartalom, jól értelmezhető információs kapcsolatok és gépi feldolgozhatóság.
+- **Schema.org, JSON-LD és webes minőség:** strukturált adatok, szemantikus HTML, hozzáférhetőség, indexelhetőség, WordPress, HTML, CSS, JavaScript és Core Web Vitals.
+- **Weboldalkészítés és webfejlesztés – külön kivitelezésként:** új üzleti weboldalak, WordPress, meglévő rendszerek tartalmi és technikai fejlesztése.
+- **Önálló alkalmazott AI-kutatás és szakmai felkészítés:** módszertani publikációk, ügynökségi mentorálás és oktatás külön felkérésre.
 
-**Munkamódszerem:** először a vállalkozás valódi működését és az ügyfelek keresési szándékát értem meg; erre építek átlátható tartalmi és technikai rendszert. **Nem ígérek garantált Google-helyezést, AI-idézetet, ChatGPT-ajánlást vagy tudáspanel-megjelenést.**
+**Munkamódszerem:** először megértem a vállalkozás üzleti kérdését, tényleges működését és keresési környezetét; az ellenőrizhető tényeket, hiányosságokat és kockázatokat elkülönítem a feltételezésektől. Ezt követheti szakmai vélemény, audit vagy fejlesztési stratégia, amelyet az ügyfél saját csapata is megvalósíthat. **Nem ígérek garantált Google-helyezést, AI-idézetet, ChatGPT-ajánlást vagy tudáspanel-megjelenést.**
 
 **Földrajzi fókusz:** Hajdúszoboszló, Debrecen és Hajdú-Bihar vármegye; online együttműködés Magyarország egész területén. A 2016-os **Ruander Webfejlesztő Tanúsítvány** és a gyakorlati referenciamunkák a szakmai háttér részei.
 
@@ -86,11 +92,14 @@ A portfólió **14 nyilvánosan hivatkozott projektet** mutat be. A közreműkö
 - **2026. július 19. – HVTV Podcast:** beszélgetés az AI-érthető weboldalakról és a vállalkozások digitális láthatóságáról. [Videó](https://www.youtube.com/watch?v=nFFLQn7L3T0).
 - **2026. augusztus – HAJDÚSZOBOSZLÓ városi lap:** Bánhegyi Zoltán *„A keresés világa is megváltozott”* című írása, a lapszám 4. oldalán. [Hivatalos laparchívum](https://hajduszoboszlo.eu/Hszob/CPage.aspx?key=481).
 - **2026. október 6. – BNI Északkelet Egység, Debrecen:** szakmai főelőadás az AI-keresésről és a vállalkozások online jelenlétéről.
-- **BNI 4208 – A Debreceni Kör:** üzleti közösségi tagság. [BNI Északkelet Egység](https://bnieszakkelet.hu/).
+- **BNI 4208 – A Debreceni Kör:** tag és kommunikációs koordinátor; közösségi tisztség, amely elkülönül az önálló tanácsadói megbízásoktól. [BNI-tagprofil](https://bni-hungary.com/hu-HU/memberdetails?encryptedMemberId=0aaM5GmIDkmMsqAZ%2B67QPw%3D%3D&name=Csan%C3%A1d+V%C3%A1rhelyi) · [BNI Északkelet Egység](https://bnieszakkelet.hu/).
+- **AI PERCEK – WikiAI.hu:** folyamatosan bővülő, magyar nyelvű szakmai podcast- és videósorozat az AI-keresésről, a vállalkozások digitális láthatóságáról és az AI gyakorlati alkalmazásáról; a WikiAI.hu szerkesztőségi tartalma, nem külön személyes márka. [Epizódok és átiratok](https://www.wikiai.hu/ai-percek-wikiai-podcast/).
 
-## 🤝 Saját etikai alapelvem
+## 🤝 Szakmai etika és összeférhetetlenség
 
-**Egy városban, egy üzleti területen egy vállalkozást képviselek.** Nem dolgozom párhuzamosan közvetlen versenytársaknak ugyanazon a földrajzi piacon és célterületen. A védelem általában helyi vagy városi, de indokolt esetben nagyobb területre is kiterjedhet, előzetes egyeztetés alapján. Fontos számomra a bizalmas üzleti tudás védelme, a tiszta érdekviszony és a felelős szakmai vállalás.
+A szakértői munkám alapja **a titoktartás, a tényszerű elemzés, a független szakmai vélemény és az ügyfelek üzleti érdekeinek védelme**. Az esetleges összeférhetetlenséget minden megbízásnál külön vizsgálom. Azonos iparágban működő vállalkozások is kérhetnek általános tanácsadást; egyik ügyfél bizalmas adatai, védett stratégiái vagy nem nyilvános hozzáférései sem használhatók fel egy másik megbízó érdekében.
+
+Az egyéni, díjazás ellenében végzett tanácsadás **nem jelent automatikus WikiAI.hu-szerkesztőségi megjelenést, ajánlást vagy bármely AI-platformmal fennálló partnerséget**.
 
 ## 🔗 Kanonikus személyes profil és géppel olvasható források
 
@@ -99,14 +108,15 @@ A portfólió **14 nyilvánosan hivatkozott projektet** mutat be. A közreműkö
 | Forrás | Hivatkozás |
 | --- | --- |
 | Hivatalos szakmai profil | [WikiAI.hu / Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/) |
-| Weboldalkészítési és webfejlesztési szolgáltatások | [Hivatalos szolgáltatási oldal a WikiAI.hu-n](https://www.wikiai.hu/weboldalkeszites-fejlesztes-debrecen-hajduszoboszlo-hajdu-bihar-varhelyi-csanad/) |
+| Önálló AI-láthatósági tanácsadás és audit | [Szakértői konzultáció egyeztetése](https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-csanad-mikor-erdemes-felkerni) |
+| Külön kérhető weboldalkészítés és webfejlesztés | [Hivatalos szolgáltatási oldal a WikiAI.hu-n](https://www.wikiai.hu/weboldalkeszites-fejlesztes-debrecen-hajduszoboszlo-hajdu-bihar-varhelyi-csanad/) |
 | Stabil személyes entitásazonosító | [WikiAI.hu – #person](https://www.wikiai.hu/szakertok/varhelyi-csanad/#person) |
 | Frissülő szakmai Markdown-tükör | [varhelyi-csanad.md](https://github.com/WikiAI-hu/wikiai-entities/blob/main/wikiai/people/varhelyi-csanad.md) |
 | Mély személyes JSON-LD-pillanatkép | [varhelyi-csanad.jsonld](https://github.com/WikiAI-hu/wikiai-entities/blob/main/wikiai/people/varhelyi-csanad.jsonld) |
 | WikiAI.hu szervezeti tudásréteg | [WikiAI-hu/wikiai-entities](https://github.com/WikiAI-hu/wikiai-entities) |
 | Google Knowledge Graph – személy | [Személyes azonosító: /g/11mzcpwnjr](https://www.google.com/search?kgmid=/g/11mzcpwnjr) |
 
-A Markdown a WordPressből automatikusan szinkronizálódik; a JSON-LD jelenleg az aktív HFCM-gráf **2026. október 22-i pillanatképe**, nem külön szerkesztett elsődleges forrás. A dokumentált Google Tudáspanel-megjelenés nem jelenti a panel állandó elérhetőségét vagy a jövőbeli megjelenés garanciáját.
+A Markdown- és JSON-LD-fájlok **másodlagos, verziózott technikai tükrök**. A hivatkozott JSON-LD a HFCM-gráf **2026. október 22-i pillanatképe**; frissessége a WikiAI.hu élő profiljához külön ellenőrizendő. Az elsődleges személyes szakmai forrás a WikiAI.hu. A dokumentált Google Tudáspanel-megjelenés nem jelenti a panel állandó elérhetőségét vagy a jövőbeli megjelenés garanciáját.
 
 ## 📩 Kapcsolat és további profilok
 
@@ -116,19 +126,19 @@ A Markdown a WordPressből automatikusan szinkronizálódik; a JSON-LD jelenleg 
 
 ## 🇬🇧 English — Professional profile
 
-**Csanád Várhelyi** (Hungarian name order: **Várhelyi Csanád**; ASCII name variant: **Csanad Varhelyi**) is a Hungary-based **website developer and SEO / AI visibility specialist**, with more than a decade of experience in business websites and digital presence.
+**Csanád Várhelyi** (Hungarian name order: **Várhelyi Csanád**; ASCII variant: **Csanad Varhelyi**) is a Hungary-based **AI Visibility Expert & Consultant**, specializing in **Entity Engineering** and LLM-first web architecture. His advisory work builds on more than a decade of website development and SEO experience.
 
-I work independently as a **sole proprietor** on website creation, WordPress development, technical and local SEO, AI-readable information architecture, structured data, entity clarity and the relationship between human-readable content and machine-interpretable information.
+I provide **independent, paid AI visibility consulting**, professional assessments, Google and AI search visibility audits, strategic roadmaps and executive advisory for businesses and B2B teams. **A website development engagement is not required** to obtain consulting services. WordPress, web development and technical SEO implementation are available separately, under an agreed scope.
 
 I am also the **responsible editor and lead editorial author of [WikiAI.hu](https://www.wikiai.hu/)**, a Hungarian editorial business knowledge and AI visibility platform founded by **Várhelyi Viktória** in September 2026. My editorial responsibilities include research, source checking and professional accuracy. **My independent business and the WikiAI.hu publishing organization are distinct entities.**
 
-### Expertise and service area
+### Consulting, expertise and service area
 
-My professional focus includes **AI-readable website development, LLM-first architecture, SEO, Local SEO, Answer Engine Optimization (AEO), Generative Engine Optimization (GEO), Large Language Model Optimization (LLMO), Entity Engineering, Knowledge Graphs, Schema.org JSON-LD, semantic HTML, WordPress and Core Web Vitals**.
+My specialties include **Entity Engineering, Knowledge Graphs, LLM-first architecture, SEO, Local SEO, Answer Engine Optimization (AEO), Generative Engine Optimization (GEO), Large Language Model Optimization (LLMO), Schema.org JSON-LD, semantic HTML, WordPress and Core Web Vitals**. Technical implementation is an optional, separately scoped service.
 
-Based in **Hajdúszoboszló / the Debrecen area**, I work with businesses across Hungary through online collaboration. My approach focuses on verifiable facts, clear services, stable entity relationships and reliable sources — **not guaranteed rankings, AI recommendations or Knowledge Panel placement**.
+Based in **Hajdúszoboszló / the Debrecen area**, I work with businesses across Hungary through online collaboration and pre-arranged consultations. My approach focuses on verifiable facts, clear services, stable entity relationships and reliable sources — **not guaranteed rankings, AI recommendations or Knowledge Panel placement**.
 
-I follow a local competitive-conflict principle: **one directly competing business per city and business field**, with the geographic scope agreed in advance.
+I protect client confidentiality, provide independent professional advice and assess potential conflicts of interest **case by case**. Work for organizations in the same industry does not permit sharing confidential information, proprietary strategies or access credentials. My personal consulting and WikiAI.hu editorial decisions remain separate.
 
 ### Research and verifiable sources
 
