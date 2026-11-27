@@ -15,6 +15,8 @@ Hajdúszoboszló · Debrecen · Hajdú-Bihar · Magyarország | Országos online
 
 **[15 szakértői szolgáltatás és 2027-es tájékoztató díjazás](https://www.varhelyicsanad.hu/#arazas)** · [Weboldalkészítés és webfejlesztés külön megbízásként](https://www.wikiai.hu/weboldalkeszites-fejlesztes-debrecen-hajduszoboszlo-hajdu-bihar-varhelyi-csanad/)
 
+**Saját szoftverprojekt / Software project:** [WikiAI Schema Peek 1.1.0](https://www.wikiai.hu/wikiai-schema-peek/) · [Chrome Web Store](https://chrome.google.com/webstore/detail/glegjhmdanhbloojggfdphgohgfmmheh) · [Online demo](https://huggingface.co/spaces/wikiaihu/wikiai-schema-peek) · [Product Hunt](https://www.producthunt.com/products/wikiai-schema-peek?launch=wikiai-schema-peek)
+
 ---
 
 ## 🇭🇺 Bemutatkozás
@@ -77,16 +79,38 @@ Felelős szerkesztőként a Vállalkozások, Cikkek, Hírek és Tudástár tarta
 
 **Fontos entitáshatár:** a természetes személy, a saját egyéni vállalkozásom és a WikiAI.hu kiadói szervezete egymáshoz kapcsolódó, de **külön szereplők**. A WikiAI.hu független magyar platform; nem a Wikipédia, a Wikimedia vagy bármely AI-szolgáltató része.
 
+## 🛠️ WikiAI Schema Peek — saját szakmai szoftverprojekt (2026)
+
+**[WikiAI Schema Peek](https://www.wikiai.hu/wikiai-schema-peek/)** — ingyenes, magyar és angol nyelvű Chrome-bővítmény és külön böngészős online demó JSON-LD strukturált adatok, Schema.org-szókészlet és deklarált entitáskapcsolatok vizsgálatához. Várhelyi Csanád szakmai koncepciója, kezdeményezése és fejlesztési irányítása alapján, AI-asszisztált programozással és dokumentált teszteléssel készült a WikiAI.hu szakmai eszközprojektjeként.
+
+**1.1.0 · Chrome Manifest V3 · Schema.org 30.1 · Ingyenes személyes és üzleti használat.** A Chrome Web Store hivatalos közzététele és a Product Hunt nyilvános termékbemutatója 2026. november 27-én történt. Várhelyi Csanád a Product Hunt Maker és Hunter szereplője.
+
+| Elérhetőség | Hivatkozás |
+| --- | --- |
+| Hivatalos termékoldal és adatvédelem | [WikiAI Schema Peek](https://www.wikiai.hu/wikiai-schema-peek/) · [Adatkezelési tájékoztató](https://www.wikiai.hu/wikiai-schema-peek/#privacy-policy) |
+| Ajánlott telepítés | [Chrome Web Store — ingyenes telepítés](https://chrome.google.com/webstore/detail/glegjhmdanhbloojggfdphgohgfmmheh) |
+| Nemzetközi termékbemutató | [Product Hunt — termékadatlap](https://www.producthunt.com/products/wikiai-schema-peek?launch=wikiai-schema-peek) · [Személyes Maker profil](https://www.producthunt.com/@csanad_varhelyi) |
+| Forráskód és tesztek | [GitHub — WikiAI-hu/wikiai-schema-peek](https://github.com/WikiAI-hu/wikiai-schema-peek) |
+| Telepítés nélküli kipróbálás | [Hugging Face online demó](https://huggingface.co/spaces/wikiaihu/wikiai-schema-peek) · [Demó verziózott forrása](https://github.com/WikiAI-hu/hf-entity-lab-publisher/tree/main/schema-peek-space) |
+| Fejlesztői csomag | [Chrome ZIP 1.1.0](https://raw.githubusercontent.com/WikiAI-hu/wikiai-schema-peek/main/downloads/WikiAI-Schema-Peek-1.1.0-Chrome.zip) · [SHA-256 ellenőrzőösszeg](https://github.com/WikiAI-hu/wikiai-schema-peek/blob/main/docs/CHROME-ZIP-SHA256.txt) |
+| Licenc és közreműködés | [Free Use / Source-Available License 1.0](https://github.com/WikiAI-hu/wikiai-schema-peek/blob/main/LICENSE.md) · [Együttműködési feltételek](https://github.com/WikiAI-hu/wikiai-schema-peek/blob/main/CONTRIBUTING.md) |
+| Angol szakmai leírás | [WikiAI Schema Peek: A Practical JSON-LD and Entity Engineering Tool for Chrome](https://www.wikiai.hu/wikiai-schema-peek-a-practical-json-ld-and-entity-engineering-tool-for-chrome/) |
+| Stabil szoftverentitás | [WikiAI Schema Peek — #software](https://www.wikiai.hu/wikiai-schema-peek/#software) |
+
+A bővítmény a felhasználó kérésére az aktuális böngészőlap JSON-LD blokkjait, a deklarált típusokat, tulajdonságokat, @id és sameAs kapcsolatokat, valamint egyes technikai SEO-metaadatokat vizsgálja. Az 1.1.0 verzió beépített Schema.org 30.1 adatindexe 939 osztályt, 1538 tulajdonságnevet, 546 enumerációs értéket és 309 kiválasztott domain/range szabálydefiníciót tartalmaz. Az online demó beillesztett JSON-LD-t dolgoz fel helyben; nem tölti be a megadott weboldalt és nem vizsgálja az aktív böngészőlapot.
+
+A szoftver az Entity Engineering, technikai SEO, AEO, GEO, LLMO és LLM-first architektúra diagnosztikai munkafolyamatait támogatja. Nem teljes körű Schema.org-validátor, nem AI-modell, nem mér keresőhelyezést, indexelést vagy AI-ajánlást. A nyilvános terjesztés nem jelent Google- vagy Schema.org-szakmai minősítést. A nyilvánosan elérhető forráskód a saját Free Use / Source-Available License 1.0 feltételeivel használható; ez nem korlátlan open-source licenc. A Schema.org-ból származtatott szókészlet külön, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) licenc alatt áll.
+
 ## 📚 Szakmai kutatás, publikációk és azonosítók
 
 **2026-ban három angol nyelvű, DOI-val azonosított önálló szakmai publikációm jelent meg.** Az LLM-first webarchitektúra, a géppel olvasható web és a magyar vállalkozások AI-környezetben történő értelmezhetősége áll a középpontjukban.
 
 1. **A Theoretical and Methodological Framework for LLM-First Website Architecture: Conceptual Clarification, Industry Positioning, and Application Directions in the Era of Generative Search**  
-   [DOI: 10.5281/zenodo.20069426](https://doi.org/10.5281/zenodo.20069426) · [Zenodo](https://zenodo.org/records/20069426)
+   [DOI: 10.5281/zenodo.20069426](https://doi.org/10.5281/zenodo.20069426) · [Zenodo](https://zenodo.org/records/20069426) · [Academia.edu](https://www.academia.edu/182064487/A_Theoretical_and_Methodological_Framework_for_LLM_First_Website_Architecture)
 2. **The Machine-Readable Web**  
-   [DOI: 10.5281/zenodo.20422832](https://doi.org/10.5281/zenodo.20422832) · [Zenodo](https://zenodo.org/records/20422832)
+   [DOI: 10.5281/zenodo.20422832](https://doi.org/10.5281/zenodo.20422832) · [Zenodo](https://zenodo.org/records/20422832) · [Academia.edu](https://www.academia.edu/182064187/The_Machine_Readable_Web_A_historical_economic_and_methodological_publication_on_AI_search_large_language_models_and_digital_trust)
 3. **People-First, LLM-First: Digital Interpretability of Hungarian Enterprises in the Era of AI-Mediated Search: WikiAI.hu as an Applied Business Knowledge Platform**  
-   [DOI: 10.5281/zenodo.23295826](https://doi.org/10.5281/zenodo.23295826) · [Zenodo](https://zenodo.org/records/23295826)
+   [DOI: 10.5281/zenodo.23295826](https://doi.org/10.5281/zenodo.23295826) · [Zenodo](https://zenodo.org/records/23295826) · [Academia.edu](https://www.academia.edu/182064352/People_First_LLM_First_Digital_Interpretability_of_Hungarian_Enterprises_in_the_Era_of_AI_Mediated_Search_WikiAI_hu_as_an_Applied_Business_Knowledge_Platform)
 
 **Szerzői azonosítók:** [ORCID 0009-0006-7599-3731](https://orcid.org/0009-0006-7599-3731) · [OpenAlex A5135596920](https://openalex.org/authors/A5135596920) · [Google Scholar](https://scholar.google.com/citations?user=8v2EfToAAAAJ) · [Medium](https://medium.com/@varhelyicsanad).
 
@@ -96,6 +120,11 @@ A DOI tartósan azonosítja a publikációt, de önmagában nem jelent lektorál
 - [Mi az LLM-first weboldal-architektúra, és miért számít az AI korszakban?](https://medium.com/@varhelyicsanad/mi-az-llm-first-weboldal-architekt%C3%BAra-%C3%A9s-mi%C3%A9rt-sz%C3%A1m%C3%ADt-az-ai-korszakban-2312819ce64e)
 - [WikiAI.hu: Helping Hungarian Businesses Be Understood in the Age of AI](https://medium.com/@varhelyicsanad/wikiai-hungarian-businesses-age-of-ai-ce5d401c58a7)
 - [Google Tudáspanel és Knowledge Graph – dokumentált esettanulmány](https://www.wikiai.hu/google-tudaspanel-knowledge-graph-varhelyi-csanad-esettanulmany/)
+
+**További angol nyelvű szakmai írások:**
+- [AI Visibility, Entity Engineering and the Future of Search](https://varhelyicsanad.substack.com/p/csanad-varhelyi-ai-visibility-entity-engineering) — Substack
+- [Entity Engineering: Building Machine-Readable Websites with JSON-LD and LLM-First Architecture](https://dev.to/varhelyicsanad/entity-engineering-building-machine-readable-websites-with-json-ld-and-llm-first-architecture-1dl9) — DEV Community
+- [Why AI Visibility Begins with Entity Engineering, Not Just SEO](https://www.quora.com/profile/Csan%C3%A1d-V%C3%A1rhelyi/Why-AI-Visibility-Begins-with-Entity-Engineering-Not-Just-SEO-A-website-can-rank-well-on-Google-and-still-be-difficult) — Quora
 
 ## 🧩 Nyilvánosan bemutatott referenciák
 
@@ -146,6 +175,28 @@ A WikiAI Person-gráf a saját domain személyazonosítóját ugyanazon személy
 ## 📩 Kapcsolat és további profilok
 
 [**E-mail**](mailto:varhelyicsanad@gmail.com) · [LinkedIn](https://www.linkedin.com/in/varhelyicsanad) · [GitHub](https://github.com/varhelyicsanad) · [Medium](https://medium.com/@varhelyicsanad) · [Hugging Face](https://huggingface.co/varhelyicsanad) · [YouTube](https://www.youtube.com/@venaidvcsanad)
+
+### További személyes szakmai és szerzői profilok / Additional professional and author profiles
+
+A saját kezelésű profilok további elsődleges szakmai források. / These self-maintained profiles are additional first-party professional sources.
+
+| Platform | Profil / Profile | Szerep / Role |
+| --- | --- | --- |
+| Product Hunt | [Product Hunt](https://www.producthunt.com/@csanad_varhelyi) | Maker / Hunter |
+| WordPress.org | [WordPress.org](https://profiles.wordpress.org/csanad/) | Developer community |
+| Gravatar | [Gravatar](https://gravatar.com/varhelyicsanad) | Personal profile |
+| XING | [XING](https://www.xing.com/profile/Csanad_Varhelyi) | Professional profile |
+| Substack | [Substack](https://substack.com/@varhelyicsanad) | Author profile |
+| Quora | [Quora](https://www.quora.com/profile/Csan%C3%A1d-V%C3%A1rhelyi) | Author profile |
+| Academia.edu | [Academia.edu](https://independentresearcher.academia.edu/Csan%C3%A1dV%C3%A1rhelyi) | Independent researcher profile |
+| DEV Community | [DEV Community](https://dev.to/varhelyicsanad) | Developer and author profile |
+| About.me | [About.me](https://about.me/varhelyi-csanad) | Personal professional profile |
+
+**Külön szolgáltatói profil / Separate business-service profile:** [ProvenExpert — Várhelyi Csanád AI Visibility Expert & Consultant](https://www.provenexpert.com/en-us/varhelyi-csanad-ai-visibility-expert-consultant/).
+
+**Külön szervezeti felület / Separate organizational presence:** [WikiAI.hu on Hugging Face](https://huggingface.co/wikiaihu).
+
+A profilok és a saját publikációk nem jelentenek független minősítést, lektorálást vagy igazolt AI-ajánlást. / Self-maintained profiles and publications do not constitute independent accreditation, peer review or verified AI recommendations.
 
 ---
 
@@ -211,13 +262,35 @@ Useful organizational and technical resources:
 - [WikiAI-hu GitHub organization](https://github.com/WikiAI-hu)
 - [WikiAI-hu/wikiai-entities — public entity and knowledge mirror](https://github.com/WikiAI-hu/wikiai-entities)
 
+### WikiAI Schema Peek — professional software project (2026)
+
+**[WikiAI Schema Peek](https://www.wikiai.hu/wikiai-schema-peek/)** is a free bilingual Chrome extension and a separate browser-based online demo for inspecting JSON-LD structured data, Schema.org vocabulary and declared entity relationships. Csanád Várhelyi conceived, initiated, designed and professionally directed this WikiAI.hu project, using AI-assisted programming and documented development tests.
+
+**Version 1.1.0 · Chrome Manifest V3 · Schema.org 30.1 · Free personal and professional use.** The Chrome Web Store publication and public Product Hunt launch took place on 27 November 2026. Csanád Várhelyi is listed as Maker and Hunter on Product Hunt.
+
+| Resource | Link |
+| --- | --- |
+| Official product documentation and privacy | [WikiAI Schema Peek](https://www.wikiai.hu/wikiai-schema-peek/) · [English documentation](https://www.wikiai.hu/wikiai-schema-peek/#english) · [English privacy policy](https://www.wikiai.hu/wikiai-schema-peek/#privacy-en) |
+| Recommended installation | [Install free from the Chrome Web Store](https://chrome.google.com/webstore/detail/glegjhmdanhbloojggfdphgohgfmmheh) |
+| International product launch | [Product Hunt product listing](https://www.producthunt.com/products/wikiai-schema-peek?launch=wikiai-schema-peek) · [Personal Maker profile](https://www.producthunt.com/@csanad_varhelyi) |
+| Source code and development tests | [GitHub repository](https://github.com/WikiAI-hu/wikiai-schema-peek) |
+| Try without installing | [Hugging Face web demo](https://huggingface.co/spaces/wikiaihu/wikiai-schema-peek) · [Versioned demo source](https://github.com/WikiAI-hu/hf-entity-lab-publisher/tree/main/schema-peek-space) |
+| Developer-mode installation | [Chrome ZIP 1.1.0](https://raw.githubusercontent.com/WikiAI-hu/wikiai-schema-peek/main/downloads/WikiAI-Schema-Peek-1.1.0-Chrome.zip) · [SHA-256 checksum](https://github.com/WikiAI-hu/wikiai-schema-peek/blob/main/docs/CHROME-ZIP-SHA256.txt) |
+| License and collaboration | [Free Use / Source-Available License 1.0](https://github.com/WikiAI-hu/wikiai-schema-peek/blob/main/LICENSE.md) · [Contribution policy](https://github.com/WikiAI-hu/wikiai-schema-peek/blob/main/CONTRIBUTING.md) |
+| Technical overview | [WikiAI Schema Peek: A Practical JSON-LD and Entity Engineering Tool for Chrome](https://www.wikiai.hu/wikiai-schema-peek-a-practical-json-ld-and-entity-engineering-tool-for-chrome/) |
+| Stable software entity | [WikiAI Schema Peek — #software](https://www.wikiai.hu/wikiai-schema-peek/#software) |
+
+The extension inspects JSON-LD blocks in the current browser tab on demand, including declared types and properties, @id references, sameAs links and selected technical SEO metadata. The bundled Schema.org 30.1 index covers 939 classes, 1,538 property names, 546 enumeration values and 309 selected domain/range rule definitions. The web demo processes pasted JSON-LD locally; it does not fetch websites or inspect the active browser tab.
+
+The tool supports diagnostic work in Entity Engineering, technical SEO, AEO, GEO, LLMO and LLM-first architecture. It is not a full Schema.org validator, a generative AI system or a measurement of search rankings, indexing or AI recommendations. Public distribution is not Google or Schema.org certification or endorsement. The publicly available source is distributed under the Free Use / Source-Available License 1.0, not an unrestricted open-source license. The derived Schema.org vocabulary index has a separate [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license.
+
 ### 4. Independent publications and researcher identifiers
 
 My independent applied research concerns **LLM-first website architecture, the machine-readable web and the interpretability of Hungarian businesses in AI-mediated search**. Three English-language professional works were published with persistent DOI identifiers in 2026:
 
-1. **A Theoretical and Methodological Framework for LLM-First Website Architecture: Conceptual Clarification, Industry Positioning, and Application Directions in the Era of Generative Search** — [DOI: 10.5281/zenodo.20069426](https://doi.org/10.5281/zenodo.20069426) · [Zenodo record](https://zenodo.org/records/20069426)
-2. **The Machine-Readable Web** — [DOI: 10.5281/zenodo.20422832](https://doi.org/10.5281/zenodo.20422832) · [Zenodo record](https://zenodo.org/records/20422832)
-3. **People-First, LLM-First: Digital Interpretability of Hungarian Enterprises in the Era of AI-Mediated Search: WikiAI.hu as an Applied Business Knowledge Platform** — [DOI: 10.5281/zenodo.23295826](https://doi.org/10.5281/zenodo.23295826) · [Zenodo record](https://zenodo.org/records/23295826)
+1. **A Theoretical and Methodological Framework for LLM-First Website Architecture: Conceptual Clarification, Industry Positioning, and Application Directions in the Era of Generative Search** — [DOI: 10.5281/zenodo.20069426](https://doi.org/10.5281/zenodo.20069426) · [Zenodo record](https://zenodo.org/records/20069426) · [Academia.edu](https://www.academia.edu/182064487/A_Theoretical_and_Methodological_Framework_for_LLM_First_Website_Architecture)
+2. **The Machine-Readable Web** — [DOI: 10.5281/zenodo.20422832](https://doi.org/10.5281/zenodo.20422832) · [Zenodo record](https://zenodo.org/records/20422832) · [Academia.edu](https://www.academia.edu/182064187/The_Machine_Readable_Web_A_historical_economic_and_methodological_publication_on_AI_search_large_language_models_and_digital_trust)
+3. **People-First, LLM-First: Digital Interpretability of Hungarian Enterprises in the Era of AI-Mediated Search: WikiAI.hu as an Applied Business Knowledge Platform** — [DOI: 10.5281/zenodo.23295826](https://doi.org/10.5281/zenodo.23295826) · [Zenodo record](https://zenodo.org/records/23295826) · [Academia.edu](https://www.academia.edu/182064352/People_First_LLM_First_Digital_Interpretability_of_Hungarian_Enterprises_in_the_Era_of_AI_Mediated_Search_WikiAI_hu_as_an_Applied_Business_Knowledge_Platform)
 
 **Author and professional identifiers:** [ORCID 0009-0006-7599-3731](https://orcid.org/0009-0006-7599-3731) · [OpenAlex A5135596920](https://openalex.org/authors/A5135596920) · [Google Scholar](https://scholar.google.com/citations?user=8v2EfToAAAAJ) · [Medium](https://medium.com/@varhelyicsanad) · [Hugging Face](https://huggingface.co/varhelyicsanad).
 
@@ -228,6 +301,12 @@ Selected articles and case material:
 - [What is LLM-first website architecture, and why does it matter? (Hungarian)](https://medium.com/@varhelyicsanad/mi-az-llm-first-weboldal-architekt%C3%BAra-%C3%A9s-mi%C3%A9rt-sz%C3%A1m%C3%ADt-az-ai-korszakban-2312819ce64e)
 - [WikiAI.hu: Helping Hungarian Businesses Be Understood in the Age of AI](https://medium.com/@varhelyicsanad/wikiai-hungarian-businesses-age-of-ai-ce5d401c58a7)
 - [Google Knowledge Panel and Knowledge Graph — documented case study (Hungarian)](https://www.wikiai.hu/google-tudaspanel-knowledge-graph-varhelyi-csanad-esettanulmany/)
+
+Additional English-language professional articles:
+
+- [AI Visibility, Entity Engineering and the Future of Search](https://varhelyicsanad.substack.com/p/csanad-varhelyi-ai-visibility-entity-engineering) — Substack
+- [Entity Engineering: Building Machine-Readable Websites with JSON-LD and LLM-First Architecture](https://dev.to/varhelyicsanad/entity-engineering-building-machine-readable-websites-with-json-ld-and-llm-first-architecture-1dl9) — DEV Community
+- [Why AI Visibility Begins with Entity Engineering, Not Just SEO](https://www.quora.com/profile/Csan%C3%A1d-V%C3%A1rhelyi/Why-AI-Visibility-Begins-with-Entity-Engineering-Not-Just-SEO-A-website-can-rank-well-on-Google-and-still-be-difficult) — Quora
 
 ### 5. Selected professional projects and practical experience
 
